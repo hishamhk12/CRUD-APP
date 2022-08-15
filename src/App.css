@@ -1,0 +1,29 @@
+.form input, .form button{
+  width: 200px;
+  height: 40px;
+  border: 1px solid grey;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+button {
+  font-size: larger;
+}
+body{
+  text-align: center;
+}
+
+.post{
+  width: 60%;
+  background-color: #fff;
+  border: 1px solid #666;
+  padding: 10px;
+}
+
+.posts{
+  padding-left: 410px;
+  padding-top: 20px;
+}
